@@ -1,0 +1,14 @@
+C:\Users\tsile\Documents\A5\PATRON\Application-Orient-e-Service\Application_Ecommerce\UserManager\bin\Debug\netcoreapp3.1\UserManager.exe
+C:\Users\tsile\Documents\A5\PATRON\Application-Orient-e-Service\Application_Ecommerce\UserManager\bin\Debug\netcoreapp3.1\UserManager.deps.json
+C:\Users\tsile\Documents\A5\PATRON\Application-Orient-e-Service\Application_Ecommerce\UserManager\bin\Debug\netcoreapp3.1\UserManager.runtimeconfig.json
+C:\Users\tsile\Documents\A5\PATRON\Application-Orient-e-Service\Application_Ecommerce\UserManager\bin\Debug\netcoreapp3.1\UserManager.runtimeconfig.dev.json
+C:\Users\tsile\Documents\A5\PATRON\Application-Orient-e-Service\Application_Ecommerce\UserManager\bin\Debug\netcoreapp3.1\UserManager.dll
+C:\Users\tsile\Documents\A5\PATRON\Application-Orient-e-Service\Application_Ecommerce\UserManager\bin\Debug\netcoreapp3.1\UserManager.pdb
+C:\Users\tsile\Documents\A5\PATRON\Application-Orient-e-Service\Application_Ecommerce\UserManager\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tsile\Documents\A5\PATRON\Application-Orient-e-Service\Application_Ecommerce\UserManager\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\tsile\Documents\A5\PATRON\Application-Orient-e-Service\Application_Ecommerce\UserManager\obj\Debug\netcoreapp3.1\UserManager.csprojAssemblyReference.cache
+C:\Users\tsile\Documents\A5\PATRON\Application-Orient-e-Service\Application_Ecommerce\UserManager\obj\Debug\netcoreapp3.1\UserManager.AssemblyInfoInputs.cache
+C:\Users\tsile\Documents\A5\PATRON\Application-Orient-e-Service\Application_Ecommerce\UserManager\obj\Debug\netcoreapp3.1\UserManager.AssemblyInfo.cs
+C:\Users\tsile\Documents\A5\PATRON\Application-Orient-e-Service\Application_Ecommerce\UserManager\obj\Debug\netcoreapp3.1\UserManager.csproj.CopyComplete
+C:\Users\tsile\Documents\A5\PATRON\Application-Orient-e-Service\Application_Ecommerce\UserManager\obj\Debug\netcoreapp3.1\UserManager.dll
+C:\Users\tsile\Documents\A5\PATRON\Application-Orient-e-Service\Application_Ecommerce\UserManager\obj\Debug\netcoreapp3.1\UserManager.pdb
