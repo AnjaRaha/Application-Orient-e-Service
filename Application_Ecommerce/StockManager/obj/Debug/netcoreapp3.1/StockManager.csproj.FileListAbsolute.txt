@@ -1,0 +1,14 @@
+C:\Users\tsile\Documents\A5\PATRON\TP5\Application_Ecommerce\StockManager\bin\Debug\netcoreapp3.1\StockManager.exe
+C:\Users\tsile\Documents\A5\PATRON\TP5\Application_Ecommerce\StockManager\bin\Debug\netcoreapp3.1\StockManager.deps.json
+C:\Users\tsile\Documents\A5\PATRON\TP5\Application_Ecommerce\StockManager\bin\Debug\netcoreapp3.1\StockManager.runtimeconfig.json
+C:\Users\tsile\Documents\A5\PATRON\TP5\Application_Ecommerce\StockManager\bin\Debug\netcoreapp3.1\StockManager.runtimeconfig.dev.json
+C:\Users\tsile\Documents\A5\PATRON\TP5\Application_Ecommerce\StockManager\bin\Debug\netcoreapp3.1\StockManager.dll
+C:\Users\tsile\Documents\A5\PATRON\TP5\Application_Ecommerce\StockManager\bin\Debug\netcoreapp3.1\StockManager.pdb
+C:\Users\tsile\Documents\A5\PATRON\TP5\Application_Ecommerce\StockManager\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tsile\Documents\A5\PATRON\TP5\Application_Ecommerce\StockManager\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\tsile\Documents\A5\PATRON\TP5\Application_Ecommerce\StockManager\obj\Debug\netcoreapp3.1\StockManager.AssemblyInfoInputs.cache
+C:\Users\tsile\Documents\A5\PATRON\TP5\Application_Ecommerce\StockManager\obj\Debug\netcoreapp3.1\StockManager.AssemblyInfo.cs
+C:\Users\tsile\Documents\A5\PATRON\TP5\Application_Ecommerce\StockManager\obj\Debug\netcoreapp3.1\StockManager.csproj.CopyComplete
+C:\Users\tsile\Documents\A5\PATRON\TP5\Application_Ecommerce\StockManager\obj\Debug\netcoreapp3.1\StockManager.dll
+C:\Users\tsile\Documents\A5\PATRON\TP5\Application_Ecommerce\StockManager\obj\Debug\netcoreapp3.1\StockManager.pdb
+C:\Users\tsile\Documents\A5\PATRON\TP5\Application_Ecommerce\StockManager\obj\Debug\netcoreapp3.1\StockManager.csprojAssemblyReference.cache

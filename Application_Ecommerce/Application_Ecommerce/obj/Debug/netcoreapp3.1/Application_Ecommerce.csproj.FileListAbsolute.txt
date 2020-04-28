@@ -1,0 +1,17 @@
+C:\Users\tsile\Documents\A5\PATRON\TP5\Application_Ecommerce\Application_Ecommerce\bin\Debug\netcoreapp3.1\StockManager.exe
+C:\Users\tsile\Documents\A5\PATRON\TP5\Application_Ecommerce\Application_Ecommerce\bin\Debug\netcoreapp3.1\Application_Ecommerce.exe
+C:\Users\tsile\Documents\A5\PATRON\TP5\Application_Ecommerce\Application_Ecommerce\bin\Debug\netcoreapp3.1\Application_Ecommerce.deps.json
+C:\Users\tsile\Documents\A5\PATRON\TP5\Application_Ecommerce\Application_Ecommerce\bin\Debug\netcoreapp3.1\Application_Ecommerce.runtimeconfig.json
+C:\Users\tsile\Documents\A5\PATRON\TP5\Application_Ecommerce\Application_Ecommerce\bin\Debug\netcoreapp3.1\Application_Ecommerce.runtimeconfig.dev.json
+C:\Users\tsile\Documents\A5\PATRON\TP5\Application_Ecommerce\Application_Ecommerce\bin\Debug\netcoreapp3.1\Application_Ecommerce.dll
+C:\Users\tsile\Documents\A5\PATRON\TP5\Application_Ecommerce\Application_Ecommerce\bin\Debug\netcoreapp3.1\Application_Ecommerce.pdb
+C:\Users\tsile\Documents\A5\PATRON\TP5\Application_Ecommerce\Application_Ecommerce\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tsile\Documents\A5\PATRON\TP5\Application_Ecommerce\Application_Ecommerce\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\tsile\Documents\A5\PATRON\TP5\Application_Ecommerce\Application_Ecommerce\bin\Debug\netcoreapp3.1\StockManager.dll
+C:\Users\tsile\Documents\A5\PATRON\TP5\Application_Ecommerce\Application_Ecommerce\bin\Debug\netcoreapp3.1\StockManager.pdb
+C:\Users\tsile\Documents\A5\PATRON\TP5\Application_Ecommerce\Application_Ecommerce\obj\Debug\netcoreapp3.1\Application_Ecommerce.csprojAssemblyReference.cache
+C:\Users\tsile\Documents\A5\PATRON\TP5\Application_Ecommerce\Application_Ecommerce\obj\Debug\netcoreapp3.1\Application_Ecommerce.AssemblyInfoInputs.cache
+C:\Users\tsile\Documents\A5\PATRON\TP5\Application_Ecommerce\Application_Ecommerce\obj\Debug\netcoreapp3.1\Application_Ecommerce.AssemblyInfo.cs
+C:\Users\tsile\Documents\A5\PATRON\TP5\Application_Ecommerce\Application_Ecommerce\obj\Debug\netcoreapp3.1\Application_Ecommerce.csproj.CopyComplete
+C:\Users\tsile\Documents\A5\PATRON\TP5\Application_Ecommerce\Application_Ecommerce\obj\Debug\netcoreapp3.1\Application_Ecommerce.dll
+C:\Users\tsile\Documents\A5\PATRON\TP5\Application_Ecommerce\Application_Ecommerce\obj\Debug\netcoreapp3.1\Application_Ecommerce.pdb
