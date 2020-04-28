@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tsile\\Documents\\A5\\PATRON\\TP5\\Application_Ecommerce\\UserManager\\UserManager.csproj": {}
+    "C:\\Users\\tsile\\Documents\\A5\\PATRON\\Application-Orient-e-Service\\Application_Ecommerce\\UserManager\\UserManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tsile\\Documents\\A5\\PATRON\\TP5\\Application_Ecommerce\\UserManager\\UserManager.csproj": {
+    "C:\\Users\\tsile\\Documents\\A5\\PATRON\\Application-Orient-e-Service\\Application_Ecommerce\\UserManager\\UserManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tsile\\Documents\\A5\\PATRON\\TP5\\Application_Ecommerce\\UserManager\\UserManager.csproj",
+        "projectUniqueName": "C:\\Users\\tsile\\Documents\\A5\\PATRON\\Application-Orient-e-Service\\Application_Ecommerce\\UserManager\\UserManager.csproj",
         "projectName": "UserManager",
-        "projectPath": "C:\\Users\\tsile\\Documents\\A5\\PATRON\\TP5\\Application_Ecommerce\\UserManager\\UserManager.csproj",
+        "projectPath": "C:\\Users\\tsile\\Documents\\A5\\PATRON\\Application-Orient-e-Service\\Application_Ecommerce\\UserManager\\UserManager.csproj",
         "packagesPath": "C:\\Users\\tsile\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tsile\\Documents\\A5\\PATRON\\TP5\\Application_Ecommerce\\UserManager\\obj\\",
+        "outputPath": "C:\\Users\\tsile\\Documents\\A5\\PATRON\\Application-Orient-e-Service\\Application_Ecommerce\\UserManager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

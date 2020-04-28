@@ -142,11 +142,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tsile\\Documents\\A5\\PATRON\\TP5\\Application_Ecommerce\\Application_Ecommerce\\Application_Ecommerce.csproj",
+      "projectUniqueName": "C:\\Users\\tsile\\Documents\\A5\\PATRON\\Application-Orient-e-Service\\Application_Ecommerce\\Application_Ecommerce\\Application_Ecommerce.csproj",
       "projectName": "Application_Ecommerce",
-      "projectPath": "C:\\Users\\tsile\\Documents\\A5\\PATRON\\TP5\\Application_Ecommerce\\Application_Ecommerce\\Application_Ecommerce.csproj",
+      "projectPath": "C:\\Users\\tsile\\Documents\\A5\\PATRON\\Application-Orient-e-Service\\Application_Ecommerce\\Application_Ecommerce\\Application_Ecommerce.csproj",
       "packagesPath": "C:\\Users\\tsile\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tsile\\Documents\\A5\\PATRON\\TP5\\Application_Ecommerce\\Application_Ecommerce\\obj\\",
+      "outputPath": "C:\\Users\\tsile\\Documents\\A5\\PATRON\\Application-Orient-e-Service\\Application_Ecommerce\\Application_Ecommerce\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -165,8 +165,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\tsile\\Documents\\A5\\PATRON\\TP5\\Application_Ecommerce\\StockManager\\StockManager.csproj": {
-              "projectPath": "C:\\Users\\tsile\\Documents\\A5\\PATRON\\TP5\\Application_Ecommerce\\StockManager\\StockManager.csproj"
+            "C:\\Users\\tsile\\Documents\\A5\\PATRON\\Application-Orient-e-Service\\Application_Ecommerce\\StockManager\\StockManager.csproj": {
+              "projectPath": "C:\\Users\\tsile\\Documents\\A5\\PATRON\\Application-Orient-e-Service\\Application_Ecommerce\\StockManager\\StockManager.csproj"
             }
           }
         }

@@ -162,11 +162,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tsile\\Documents\\A5\\PATRON\\TP5\\Application_Ecommerce\\BillManager\\BillManager.csproj",
+      "projectUniqueName": "C:\\Users\\tsile\\Documents\\A5\\PATRON\\Application-Orient-e-Service\\Application_Ecommerce\\BillManager\\BillManager.csproj",
       "projectName": "BillManager",
-      "projectPath": "C:\\Users\\tsile\\Documents\\A5\\PATRON\\TP5\\Application_Ecommerce\\BillManager\\BillManager.csproj",
+      "projectPath": "C:\\Users\\tsile\\Documents\\A5\\PATRON\\Application-Orient-e-Service\\Application_Ecommerce\\BillManager\\BillManager.csproj",
       "packagesPath": "C:\\Users\\tsile\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tsile\\Documents\\A5\\PATRON\\TP5\\Application_Ecommerce\\BillManager\\obj\\",
+      "outputPath": "C:\\Users\\tsile\\Documents\\A5\\PATRON\\Application-Orient-e-Service\\Application_Ecommerce\\BillManager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -185,11 +185,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\tsile\\Documents\\A5\\PATRON\\TP5\\Application_Ecommerce\\StockManager\\StockManager.csproj": {
-              "projectPath": "C:\\Users\\tsile\\Documents\\A5\\PATRON\\TP5\\Application_Ecommerce\\StockManager\\StockManager.csproj"
+            "C:\\Users\\tsile\\Documents\\A5\\PATRON\\Application-Orient-e-Service\\Application_Ecommerce\\StockManager\\StockManager.csproj": {
+              "projectPath": "C:\\Users\\tsile\\Documents\\A5\\PATRON\\Application-Orient-e-Service\\Application_Ecommerce\\StockManager\\StockManager.csproj"
             },
-            "C:\\Users\\tsile\\Documents\\A5\\PATRON\\TP5\\Application_Ecommerce\\UserManager\\UserManager.csproj": {
-              "projectPath": "C:\\Users\\tsile\\Documents\\A5\\PATRON\\TP5\\Application_Ecommerce\\UserManager\\UserManager.csproj"
+            "C:\\Users\\tsile\\Documents\\A5\\PATRON\\Application-Orient-e-Service\\Application_Ecommerce\\UserManager\\UserManager.csproj": {
+              "projectPath": "C:\\Users\\tsile\\Documents\\A5\\PATRON\\Application-Orient-e-Service\\Application_Ecommerce\\UserManager\\UserManager.csproj"
             }
           }
         }

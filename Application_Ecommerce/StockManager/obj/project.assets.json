@@ -122,11 +122,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tsile\\Documents\\A5\\PATRON\\TP5\\Application_Ecommerce\\StockManager\\StockManager.csproj",
+      "projectUniqueName": "C:\\Users\\tsile\\Documents\\A5\\PATRON\\Application-Orient-e-Service\\Application_Ecommerce\\StockManager\\StockManager.csproj",
       "projectName": "StockManager",
-      "projectPath": "C:\\Users\\tsile\\Documents\\A5\\PATRON\\TP5\\Application_Ecommerce\\StockManager\\StockManager.csproj",
+      "projectPath": "C:\\Users\\tsile\\Documents\\A5\\PATRON\\Application-Orient-e-Service\\Application_Ecommerce\\StockManager\\StockManager.csproj",
       "packagesPath": "C:\\Users\\tsile\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tsile\\Documents\\A5\\PATRON\\TP5\\Application_Ecommerce\\StockManager\\obj\\",
+      "outputPath": "C:\\Users\\tsile\\Documents\\A5\\PATRON\\Application-Orient-e-Service\\Application_Ecommerce\\StockManager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
